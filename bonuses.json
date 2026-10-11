@@ -1,0 +1,26 @@
+{
+  "source_url": "https://www.livescore.com/en-za/betting-sites/offers/",
+  "casinos": [
+    {
+      "casino_name": "Virgin Bet",
+      "welcome_bonus": "Up to R3,000 Deposit Match",
+      "wagering_requirement": 8,
+      "minimum_deposit": "R10",
+      "source_url": "https://www.livescore.com/en-za/betting-sites/offers/"
+    },
+    {
+      "casino_name": "Easybet",
+      "welcome_bonus": "150% First Deposit Match up to R5000",
+      "wagering_requirement": 4,
+      "minimum_deposit": "R50",
+      "source_url": "https://www.livescore.com/en-za/betting-sites/offers/"
+    },
+    {
+      "casino_name": "Betfred",
+      "welcome_bonus": "Up to R21000 + 750 Free Spins",
+      "wagering_requirement": null,
+      "minimum_deposit": "Not stated",
+      "source_url": "https://www.livescore.com/en-za/betting-sites/offers/"
+    }
+  ]
+}
